@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+
+# lecture datasets — not mine to publish
+adult.data
+citibike.csv
+housing.csv
+iris.csv
+ram_price.csv
